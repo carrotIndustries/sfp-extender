@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "fd2438f4-4051-4c33-b0db-619730464321",
+    "net_classes": {
+        "fd2438f4-4051-4c33-b0db-619730464321": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2023-04-16",
+        "project_name": "sfp-extender-receptacle-panel",
+        "project_title": "sfp extender receptacle panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "26d83b39-834a-40df-8077-d0b89c9b6a37"
+}

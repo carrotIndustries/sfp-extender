@@ -1,0 +1,122 @@
+{
+    "MPN": [
+        false,
+        "SFP card edge connector"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SFP edge connector"
+    ],
+    "entity": "265b424e-8d52-4162-ac83-94b5b99bd838",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ad66fa42-67b5-40c0-8f1b-c605965f5264",
+    "pad_map": {
+        "06a2a121-3aa4-4404-bde2-27661e83cb9d": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "d8a6ab2f-97b7-408f-a464-4351d0999f86"
+        },
+        "147c3c21-fe94-4553-b6be-4a0bbdd15b8b": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "427d6fc1-d824-4a73-be7d-947073ae48a3"
+        },
+        "390fbfe3-e4b8-4a3d-89b5-492f0b69a629": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        },
+        "44150217-7744-4f3a-b923-695c1a855f25": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        },
+        "455c9cc8-33f0-4fab-bdba-94a57134842a": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "b62a414c-bd2f-40be-9011-bbe812fba715"
+        },
+        "53c088cb-462b-40b6-9e9f-ac3df84380f7": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "1933c6db-241e-4949-bd08-9bc30a5af831"
+        },
+        "57b6f1e1-59c4-4359-9b41-bfba92e6df52": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "eea78e6d-2678-432c-8d99-543ae8f5333f"
+        },
+        "665e696b-60c0-4f0a-8228-44c74b7874a9": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "4c10803e-bcfa-41e3-91d1-20756c8cbafe"
+        },
+        "8d97bebf-5535-49d2-9a43-11fdabd4c6ac": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "99e42746-c93b-4b88-9a3a-929d79efe0f0"
+        },
+        "946e1d43-8d75-4170-bd74-e03945abb102": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        },
+        "ac8bf2bf-bde5-474f-b16b-56a65ff13b09": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "0af93935-b9f5-45e4-a86a-4111922e6c97"
+        },
+        "ace8864c-59a2-46d1-aa5b-667861177a1d": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        },
+        "ae81a9bd-2514-4e50-9bdd-d26a1b441d88": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "4c596fe4-147d-4691-a6ca-f00b266d4ea3"
+        },
+        "c042c32c-1d38-43ee-8cef-ff7bfee3b1aa": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "da005796-653d-4276-9e59-413b6b3de58f"
+        },
+        "c233d939-986b-461c-ab74-23942d6222f9": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        },
+        "d1c55c56-9fe0-43fa-a4fc-97daf65fcd58": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "5bb0b58c-f8bc-4aaf-8575-285d80cc0669"
+        },
+        "dc6225c4-a637-4c2c-96a1-4c0ab4f7aa39": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "673d8f7e-4320-49c2-9fa6-b04c5a3fd3a9"
+        },
+        "df328d0b-d58d-4c56-a0d9-f2c47fadf055": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "996f1189-00dc-4617-a27f-a7e81c3d5451"
+        },
+        "e4f306cf-4c9f-405f-be25-b19c9d8a9d40": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "deeac4c8-d79c-408f-b1fc-32098001544e"
+        },
+        "e83f4bb5-473b-4a7e-80d8-0a754bb0d1f4": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "sfp"
+    ],
+    "type": "part",
+    "uuid": "710682a7-391e-43dd-a9bc-d8ee70f0a929",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

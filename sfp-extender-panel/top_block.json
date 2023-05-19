@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "8fd6ba38-3889-4c45-88b9-d7db167fc2d6",
+    "net_classes": {
+        "8fd6ba38-3889-4c45-88b9-d7db167fc2d6": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2023-04-16",
+        "project_name": "sfp-extender-panel",
+        "project_title": "sfp extender panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "54333940-21a1-4559-9541-1dcee78d8f13"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "U77A1114300T"
+    ],
+    "base": "f2d04874-2b52-468b-8c77-50790a101a94",
+    "datasheet": [
+        true,
+        "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/p-u77-a111x-xx0x.pdf"
+    ],
+    "description": [
+        true,
+        "SFP cage"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Amphenol FCI"
+    ],
+    "model": "e81dcf8e-d482-4416-a649-74ca7c47b7c9",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "71896323-f343-4fca-b0fe-76dcf8f2d57f",
+    "value": [
+        true,
+        "U77A1114100T"
+    ]
+}

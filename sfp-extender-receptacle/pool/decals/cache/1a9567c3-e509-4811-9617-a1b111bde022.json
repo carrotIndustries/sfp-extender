@@ -1,0 +1,887 @@
+{
+    "arcs": {},
+    "junctions": {},
+    "lines": {},
+    "name": "Warning (Silkscreen)",
+    "polygons": {
+        "bb7203df-e394-4ff5-9268-c1583c641cd9": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -45021,
+                        4657762
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        4648366
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        2764077
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -15019,
+                        2767037
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -15019,
+                        2767018
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -90043,
+                        2752017
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -244400,
+                        2690792
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -369089,
+                        2580217
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -451789,
+                        2435497
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -480181,
+                        2271854
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -480181,
+                        381109
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -442355,
+                        199062
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -336589,
+                        45888
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -182565,
+                        -59711
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -99054
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -579254
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -186912,
+                        -616988
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -339530,
+                        -719906
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -442448,
+                        -872524
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -480181,
+                        -1059436
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -442448,
+                        -1246349
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -339530,
+                        -1398967
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -186912,
+                        -1501885
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -1539618
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -2500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3211244,
+                        -2500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3388446,
+                        -2470609
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3541120,
+                        -2389204
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3665586,
+                        -2265866
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3758163,
+                        -2110750
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3815208,
+                        -1933937
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3833058,
+                        -1745564
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3808013,
+                        -1555729
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3736448,
+                        -1374551
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -735274,
+                        4192582
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -582026,
+                        4406111
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -412871,
+                        4553791
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -232377,
+                        4637175
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "ccac15df-ac99-4282-906d-a31f9a0f9670": {
+            "layer": 20,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        4648384
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        144702,
+                        4618216
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        330448,
+                        4521366
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        504764,
+                        4368913
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        660250,
+                        4162561
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3691408,
+                        -1374551
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3779953,
+                        -1586194
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3804887,
+                        -1790327
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3774959,
+                        -1980568
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3698806,
+                        -2150537
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3585161,
+                        -2293852
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3442716,
+                        -2404112
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3280164,
+                        -2474956
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3106181,
+                        -2500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -2500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -1539618
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        186893,
+                        -1501885
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        339530,
+                        -1398967
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        442448,
+                        -1246349
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        480181,
+                        -1059436
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        442448,
+                        -872524
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        339530,
+                        -719906
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        186893,
+                        -616988
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -579254
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -99054
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        182528,
+                        -59711
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        336497,
+                        45907
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        442244,
+                        199062
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        480181,
+                        381128
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        480181,
+                        2271854
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        443058,
+                        2460690
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        333722,
+                        2620578
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        173816,
+                        2729913
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2000000,
+                        -9750000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        2764096
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "texts": {},
+    "type": "decal",
+    "uuid": "1a9567c3-e509-4811-9617-a1b111bde022"
+}

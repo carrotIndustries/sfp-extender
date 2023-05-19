@@ -1,0 +1,115 @@
+{
+    "MPN": [
+        false,
+        "UE75A203000T"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/ue75a20x00xx.pdf"
+    ],
+    "description": [
+        false,
+        "SFP connector"
+    ],
+    "entity": "265b424e-8d52-4162-ac83-94b5b99bd838",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol FCI"
+    ],
+    "model": "120510e9-c50c-497c-8f6f-0d39976057f9",
+    "package": "8be7fc82-c2d9-4d25-9741-08de9317435e",
+    "pad_map": {
+        "024cae3e-7786-406e-9b34-88778211cb77": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "673d8f7e-4320-49c2-9fa6-b04c5a3fd3a9"
+        },
+        "026bd8eb-c679-4796-9a65-df40ca5e942a": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "b62a414c-bd2f-40be-9011-bbe812fba715"
+        },
+        "04b1e942-e536-48e7-89bc-07ceb46b537c": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        },
+        "098f6871-9e8e-432e-8478-7876fad92e5c": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "eea78e6d-2678-432c-8d99-543ae8f5333f"
+        },
+        "09f741eb-5db5-474c-94f5-be566b6ca997": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "1933c6db-241e-4949-bd08-9bc30a5af831"
+        },
+        "18b4e455-dfaa-47e1-a488-429482346d76": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "99e42746-c93b-4b88-9a3a-929d79efe0f0"
+        },
+        "5c8a3a88-3d9f-4371-a848-0445d1c2bbde": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "d8a6ab2f-97b7-408f-a464-4351d0999f86"
+        },
+        "70b61d28-4a79-4f9e-8a00-5f67f2e5f54e": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        },
+        "718be5b0-5b89-44fd-888e-c30d485227c9": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "0af93935-b9f5-45e4-a86a-4111922e6c97"
+        },
+        "89531847-0b16-4446-88de-439c31b5f251": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "deeac4c8-d79c-408f-b1fc-32098001544e"
+        },
+        "8bb740d8-e1e1-4e56-8b01-0786b2f805f8": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "427d6fc1-d824-4a73-be7d-947073ae48a3"
+        },
+        "999f7dad-8555-4396-a5d8-45bf5a78af91": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "da005796-653d-4276-9e59-413b6b3de58f"
+        },
+        "af5f825a-b126-45a8-a17d-6074e1f0bcd3": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        },
+        "b680b03b-3c07-4f81-adb3-19f689d6bf10": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "4c596fe4-147d-4691-a6ca-f00b266d4ea3"
+        },
+        "c7423ed2-3849-4f71-b6ee-c6d3c29967d5": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "5bb0b58c-f8bc-4aaf-8575-285d80cc0669"
+        },
+        "cb7acd2a-de67-44f2-b47a-998a93d2b7b2": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        },
+        "ddca2906-4631-4069-a35d-a51a6f49fadc": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "4c10803e-bcfa-41e3-91d1-20756c8cbafe"
+        },
+        "ec23d74f-edfe-4eed-9e10-c70a2717686f": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "996f1189-00dc-4617-a27f-a7e81c3d5451"
+        },
+        "edfb9667-5dd0-4a9b-ab6b-1b2bfeaca9ef": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "f0aa65f4-8be0-41fb-a7dc-efbfc1e47f77"
+        },
+        "f03605f1-4013-47a1-94d0-a4b3ffc0586d": {
+            "gate": "06d97f01-cde9-4482-b3f6-5408d844db25",
+            "pin": "6645eb38-aa8b-4449-9cc6-a61b41654577"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "sfp"
+    ],
+    "type": "part",
+    "uuid": "f763d7d5-d47b-4ba0-9e98-ac0b58e403f7",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "06d97f01-cde9-4482-b3f6-5408d844db25": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f72c7bc6-4688-4804-a7ad-29da7402ef33"
+        }
+    },
+    "manufacturer": "",
+    "name": "SFP connector",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "sfp"
+    ],
+    "type": "entity",
+    "uuid": "265b424e-8d52-4162-ac83-94b5b99bd838"
+}
