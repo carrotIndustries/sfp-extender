@@ -53,7 +53,15 @@ being pulled back a bit from the edge to meet their design rules, so
 manually sanding the edges or just leaving them as-is is probably the 
 better option.
 
-A 3D-printed shell is currently [work in progress](sfp-extender/mech).
+The board slides into into a [3D-printed shell](sfp-extender/mech) and locks in place with 
+integral clips. These is no latch boss, as it's probably too small to 
+be made on an FDM printer and I was too lazy to design an unlatching 
+mechanism. Apart from that, the friction of the edge connector provides 
+sufficient retention.
+
+![Photo of a grey 3D printed SFP with a mini HDMI connector. At the 
+other end, a green PCB with an edge connector is 
+visible.](media/shell.jpg)
 
 ## BOM
  - [TE 2013978-2](https://www.digikey.de/en/products/detail/te-connectivity-amp-connectors/2013978-2/4022373) mini-HDMI connector
