@@ -54,7 +54,7 @@ manually sanding the edges or just leaving them as-is is probably the
 better option.
 
 The board slides into into a [3D-printed shell](sfp-extender/mech) and locks in place with 
-integral clips. These is no latch boss, as it's probably too small to 
+integral clips. There is no latch boss, as it's probably too small to 
 be made on an FDM printer and I was too lazy to design an unlatching 
 mechanism. Apart from that, the friction of the edge connector provides 
 sufficient retention.
